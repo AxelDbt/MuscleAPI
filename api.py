@@ -3,7 +3,7 @@ from flask import Flask, request,json
 app = Flask(__name__)
 
 # Load workout data
-with open('workout-data.json', 'r') as f:
+with open('workout-data-fr.json', 'r') as f:
     workout_data = json.load(f)
 
 # Load workout attributes
