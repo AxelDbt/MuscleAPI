@@ -1,0 +1,42 @@
+{
+    "categories": [
+        "Barre",
+        "Haltères",
+        "Kettlebells",
+        "Étirements",
+        "Cables",
+        "Élastique",
+        "Poids",
+        "TRX",
+        "Poids du corps",
+        "Yoga",
+        "Machine"
+    ],
+    "difficulties": [
+        "Débutant",
+        "Intermédiaire",
+        "Avancé"
+    ],
+    "forces": [
+        "Pull",
+        "Push",
+        "Hold"
+    ],
+    "muscles": [
+        "Biceps",
+        "Avant-bras",
+        "Épaules",
+        "Triceps",
+        "Quadriceps",
+        "Fessier",
+        "Dorsaux",
+        "Milieu du dos",
+        "Bas du dos",
+        "Ischio-jambiers",
+        "Pecs",
+        "Abdominals",
+        "Obliques",
+        "Trapèzes",
+        "Mollets"
+    ]
+}
