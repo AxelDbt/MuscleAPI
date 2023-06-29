@@ -7,7 +7,7 @@ with open('workout-data-fr.json', 'r') as f:
     workout_data = json.load(f)
 
 # Load workout attributes
-with open('workout-attributes.json', 'r') as f:
+with open('workout-attributes-fr.json', 'r') as f:
     workout_attributes = json.load(f)
 
 @app.route('/')
